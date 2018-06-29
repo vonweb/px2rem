@@ -2,6 +2,8 @@
 
 According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet.
 
+fork from [px2rem]: https://github.com/songsiqi/px2rem
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
@@ -143,6 +145,9 @@ Rem version: `test.debug.css`
 comment hook + css parser
 
 ## Change Log
+
+### 0.5.1
+* Support `excludeProperty` config, if css property is set it will be dealt as if `/*px*/` comment is added
 
 ### 0.5.0
 
