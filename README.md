@@ -2,7 +2,7 @@
 
 According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet.
 
-fork from [px2rem]: https://github.com/songsiqi/px2rem
+fork from [px2rem](https://github.com/songsiqi/px2rem)
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
